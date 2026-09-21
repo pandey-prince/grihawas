@@ -13,7 +13,8 @@ window.GRIHAWAS_CONFIG = {
   PROJECT_NAME: "Grihawas Aawas Yojna",
   BRAND_TAGLINE: "Affordable homes under the U.P. Affordable Housing Policy.",
   SITE_URL: "https://grihawas.com/",
-  API_BASE_URL: " https://knq3jrhv.inc1.devtunnels.ms:5000",
+  API_BASE_URL: "https://grihawas-gobg.onrender.com",
+    //"https://knq3jrhv.inc1.devtunnels.ms:5000",
   //"http://localhost:5000",
 
   // ---- Contact ----
